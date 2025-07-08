@@ -30,3 +30,6 @@ There are many expense tracking options available, ranging from free, user-frien
 In conclusion, an expense tracker is an essential financial tool that empowers users to take control of their money. Whether for personal budgeting, business accounting, or long-term financial planning, tracking expenses is a foundational step toward achieving financial health and peace of mind. 
 
 ## OUTPUT:-
+<img width="1919" height="1018" alt="Image" src="https://github.com/user-attachments/assets/df05a808-f3dd-432c-8770-60e09304e807" />
+
+<img width="1919" height="1022" alt="Image" src="https://github.com/user-attachments/assets/81528ab3-a623-47cc-b7e5-31372c6db0a7" />
